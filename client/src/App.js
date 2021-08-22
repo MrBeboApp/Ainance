@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './ardapp.png';
 import './App.css';
 
 function App() {
@@ -7,16 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        Welcome to Arabic dapps academy with Bahaa Taha</p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://ardapps.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
-        </a>
+          Arabic Dapps
+       </a>
       </header>
     </div>
   );
